@@ -4,6 +4,8 @@ A pixel-art shooter platformer written in Verilog for the Digilent Basys 3 FPGA 
 
 ![Title screen](docs/title-screen.jpg)
 
+**Demo video:** https://canva.link/yy1q9o5akjqfghh
+
 ## What it does
 
 - **ReDrawn (single player):** a puzzle platformer with seven levels, drawn at 640x480 over VGA.
