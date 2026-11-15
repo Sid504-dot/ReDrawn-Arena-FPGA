@@ -1,0 +1,13 @@
+# Vivado build output
+*.runs/
+*.cache/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.dcp
+.DS_Store
